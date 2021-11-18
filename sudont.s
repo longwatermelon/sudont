@@ -13,6 +13,6 @@ _start:
     syscall
 
 section .rodata
-    msg: db 'Nothing to do.', 14
+    msg: db 'Nothing to do.', 10, 14
     len: equ $ - msg
 
