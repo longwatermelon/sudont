@@ -8,3 +8,9 @@ clean:
 	rm *.o
 	rm sudont
 
+install:
+	cp sudont /bin
+
+uninstall:
+	rm /bin/sudont
+
