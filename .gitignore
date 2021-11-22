@@ -1,0 +1,3 @@
+*.o
+sudont
+compile_commands.json
