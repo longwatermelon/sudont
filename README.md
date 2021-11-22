@@ -3,7 +3,7 @@ Sudo but it does nothing, running commands is bloat
 
 Size comparison in bytes
 
-![image](https://user-images.githubusercontent.com/73869536/142346442-eb4deeb7-1ca0-49b7-b373-a8a4c907e23a.png)
+![image](https://user-images.githubusercontent.com/73869536/142785802-f209eb56-71f8-488b-8a56-c89b03d4cc8a.png)
 
 Other sudo alternatives are written in C - but C is bloat and the libc dependency means you need a libc installed on your system, unless you statically link. Absolutely unacceptable for true elite linux users who want a minimalistic setup.
 
